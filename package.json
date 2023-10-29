@@ -1,6 +1,6 @@
 {
   "name": "ghud-app",
-  "homepage": "https://ghud-app.github.io/ghud-app",
+  "homepage": "https://ghud-org.github.io/ghud-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
